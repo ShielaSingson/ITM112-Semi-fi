@@ -181,7 +181,7 @@
         <p>Create an account and discover the world of guitars and music.</p>
     </div>
 
-    <div class="auth-right">
+    <div class="auth-right">    
         <div class="auth-form">
 
             <h2>Create an account</h2>
